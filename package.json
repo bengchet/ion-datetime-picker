@@ -14,7 +14,7 @@
   },
   "author": "Kate Miháliková <kate@katemihalikova.cz> (https://katemihalikova.cz/)",
   "license": "MIT",
-  "repository": "katemihalikova/ion-datetime-picker",
+  "repository": "bengchet/ion-datetime-picker",
   "peerDependencies": {
     "ionic-angular": "^3.4.2"
   },
